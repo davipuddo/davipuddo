@@ -1,27 +1,13 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
-# Perfil GitHub - [SeuNome]
+# Perfil GitHub - [davipuddo]
 
 ---
 
 ## 👋 Olá, mundo!
 
-Bem-vindo ao meu espaço digital! Sou [Seu Nome], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
-
----
-
-## 💼 Experiência e Projetos
-
-**Desenvolvedor Front-End | Empresa XPTO**  
-*Período: [Data de Início] - [Data de Término]*
-
-Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
-
-**Sistema de Controle de Estoque | Projeto Acadêmico**  
-*Período: [Data de Início] - [Data de Término]*
-
-Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque, aplicando conceitos essenciais de estruturas de dados e algoritmos. A experiência proporcionou uma compreensão mais profunda do desenvolvimento de software em nível de sistema.
+Bem-vindo ao meu espaço digital! Sou [davipuddo], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
@@ -37,7 +23,7 @@ Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque
 ## 📚 Educação
 
 **Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
+*Período: 2024 - Presente*
 
 Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
 
